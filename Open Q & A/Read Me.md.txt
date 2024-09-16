@@ -1,0 +1,9 @@
+# Question & Answer
+
+### Model = microsoft/Phi-3-mini-4k-instruct
+
+### QLoRa Fine tuning
+
+### Dataset = openai/gsm8k
+
+### Platform = Google Colab
