@@ -1,9 +1,9 @@
 # Named Entity Recognition
 
-### Model = google-bert/bert-base-uncased
+- Model = google-bert/bert-base-uncased
 
-### Full Fine Tuning
+- Full Fine Tuning
 
-### Dataset = YurtsAI/named_entity_recognition
+- Dataset = YurtsAI/named_entity_recognition
 
-### Platform = Google Colab
+- Platform = Google Colab
