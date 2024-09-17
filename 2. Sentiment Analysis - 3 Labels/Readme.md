@@ -1,5 +1,7 @@
 # Text Classification with 3 labels
 
+- Model = albert-xxlarge-v2
+
 - LoRa Low-Rank Adaptation Fine Tuning
 
 - Dataset = mteb/tweet_sentiment_extraction
