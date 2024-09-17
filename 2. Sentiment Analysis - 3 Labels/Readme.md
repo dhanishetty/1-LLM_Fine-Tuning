@@ -5,3 +5,5 @@
 ### Dataset = mteb/tweet_sentiment_extraction
 
 ### Platform = Google Colab
+
+### Training Progress can be found at https://wandb.ai/dhanishetty-personaluse/huggingface/runs/lnzsi4j8?nw=nwuserdhanishetty
